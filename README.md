@@ -4,7 +4,7 @@
 
 ## Purpose
 
-This repo is designed to install Docker, Consul, and Nomad to allow for easy setup of OpenFaaS with Nomad. This is a companion repo to the following tutorial. It can also be used to setup [OpenFaaS-Nomad](https://github.com/hashicorp/faas-nomad).
+This repo is designed to install Docker, Consul, and Nomad to allow for easy setup of OpenFaaS with Nomad. It works great to setup [OpenFaaS-Nomad](https://github.com/hashicorp/faas-nomad).
 
 ## How-To
-Link coming soon
+Coming soon
