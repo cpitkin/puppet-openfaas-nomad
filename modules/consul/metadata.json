@@ -1,6 +1,6 @@
 {
   "name": "KyleAnderson-consul",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "author": "Kyle Anderson <kyle@xkyle.com>",
   "summary": "Configures Consul by Hashicorp",
   "license": "Apache-2.0",
@@ -24,7 +24,7 @@
       "version_requirement": ">= 2.0.0 < 3.0.0"
     },
     {
-      "name": "puppet-systemd",
+      "name": "camptocamp/systemd",
       "version_requirement": ">= 1.1.1 < 2.0.0"
     }
   ],
